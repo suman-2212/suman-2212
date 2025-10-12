@@ -1,11 +1,11 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/suman-2212/suman-2212/blob/main/assets/banner.jpg" alt="Suman M Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SUMAN%20M&fontAlign=50&reversal=false&descAlign=50" alt="Suman M Banner" width="100%">
 </p>
 
 ---
 
-<h1 align="center">Hi 👋, I'm <span style="color:#9b59b6;">Suman M</span></h1>
+<h1 align="center">Hi I'm <span style="color:#9b59b6;">Suman M</span></h1>
 <h3 align="center">Full-Stack Developer | ML & Data Science Enthusiast</h3>
 
 <p align="center">
@@ -15,25 +15,25 @@ I’ve completed internships in Machine Learning at <b>Codebind Technologies</b>
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 `C` `Python` `Java` `JavaScript`
 
-### 🎨 Frontend
+### Frontend
 `HTML` `CSS` `React` `Next.js` `Tailwind CSS`
 
-### ⚙️ Backend
+### Backend
 `Node.js` `Next.js Server Routes`
 
-### 🗄️ Database & Tools
+### Database & Tools
 `MySQL` `MongoDB` `Git` `GitHub` `VS Code`
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🧩 Lost-and-Found  
+### Lost-and-Found  
 Lost-and-Found is a simple web application that helps people report lost items and connect with those who find them.  
 
 **Tech Stack:**  
@@ -47,14 +47,14 @@ Lost-and-Found is a simple web application that helps people report lost items a
 
 ---
 
-## 🧮 Competitive Programming
+## Competitive Programming
 
 - **LeetCode:** 435 problems solved  
 - **CodeChef:** 568 (Division 3 - Max Rating 1546)
 
 ---
 
-## 📊 GitHub Analytics & Achievements
+## GitHub Analytics & Achievements
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suman-2212&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
@@ -75,7 +75,7 @@ Lost-and-Found is a simple web application that helps people report lost items a
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/suman-2212" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -86,4 +86,4 @@ Lost-and-Found is a simple web application that helps people report lost items a
 
 ---
 
-⭐ **"Building smart systems that connect people and data intelligently."**
+ **"Building smart systems that connect people and data intelligently."**
